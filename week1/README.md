@@ -6,6 +6,6 @@
 
 # First Homework
 
-![image](./hw01.png)
+![image](./docs/images/hw01.png)
 
 
