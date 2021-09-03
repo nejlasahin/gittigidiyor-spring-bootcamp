@@ -1,4 +1,21 @@
-# İkinci ödev teslim tarihi : 22 Ağustos - 23:00
-### Not : ARAŞTIRMA KONUSU kısmı tamamıyla sizleri geliştirmek amaçlı , eklenmiştir , o madde için herhangi bir kod vs örneğine ihtiyaç yoktur.
+## Course Requests
 
-![homework](![image](./hw02.png))
+![uml-diagram](./docs/images/Course.PNG)
+
+## Permanent Instructor Requests
+
+![uml-diagram](./docs/images/PermanentInstructor.PNG)
+
+## Visiting Researcher Requests
+
+![uml-diagram](./docs/images/VisitingResearcher.PNG)
+
+## Student Requests
+
+![uml-diagram](./docs/images/Student.PNG)
+
+---
+
+# Second Homework
+
+![image](./docs/images/hw02.png)
