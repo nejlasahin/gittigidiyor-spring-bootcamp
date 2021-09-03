@@ -8,7 +8,7 @@
 
 ## Visiting Researcher Requests
 
-![uml-diagram](./docs/images/VisitingResearcher.PNG)
+![uml-diagram](./docs/images/Visitingresearcher.PNG)
 
 ## Student Requests
 
