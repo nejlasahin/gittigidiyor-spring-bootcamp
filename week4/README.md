@@ -24,8 +24,6 @@
 
 ## API Endpoints
 
-![endpoints](https://github.com/java-spring-bootcamp/blob/main/week4/src/main/java/spring/bootcamp/week4/docs/images/endpoints.png?raw=true)
-
 #### Instructor Controller
 
 | Route                                                        | HTTP Verb | POST Body  | Description              |
