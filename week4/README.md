@@ -24,8 +24,6 @@
 
 ## API Endpoints
 
-![endpoints](https://github.com/113-GittiGidiyor-Java-Spring-Bootcamp/fourth-homework-nejlasahin/blob/main/week4/src/main/java/spring/bootcamp/week4/docs/images/endpoints.png?raw=true)
-
 #### Instructor Controller
 
 | Route                                                        | HTTP Verb | POST Body  | Description              |
@@ -64,8 +62,3 @@
 | http://localhost:8080/api/exceptions/{date}                      | `GET`     | List-ExceptionLoggerDto-      | Get All Exception Loggers By Date           |
 | http://localhost:8080/api/exceptions/{exceptionMessage}            | `GET`  | List-ExceptionLoggerDto-    | Get All Exception Loggers By Exception Message  |
 | http://localhost:8080/api/exceptions/{statusCode}         | `GET`     | List-ExceptionLoggerDto-    | Get All Exception By Status Code|
-
-
-## Dördüncü hafta ödevi son teslim tarihi : 06.08.2021(Gelecek hafta pazartesi) - Saat =>  23:30
-
-![homework](https://user-images.githubusercontent.com/45206582/131386439-6727321a-5a50-4c20-9413-ea4013013434.PNG)
