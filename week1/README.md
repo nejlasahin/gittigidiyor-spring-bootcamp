@@ -1,11 +1,16 @@
-## Java Class Diagram
+### Java Class Diagram
 
-![uml-diagram](./docs/images/uml-diagram.png)
+![uml-diagram](https://github.com/nejlasahin/java-spring-bootcamp/blob/main/docs/week1/uml-diagram.png?raw=true)
 
 ---
 
-# First Homework
+### Features
 
-![image](./docs/images/hw01.png)
+- User can create student using object information.
+- User can list students.
+- User can delete student using id information.
+- User can update student using object and id information.
+- User can list students by gender.
+- User can list students by course id information.
 
 
