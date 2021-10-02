@@ -19,6 +19,6 @@ public interface InstructorRepository extends CrudRepository<Instructor, Long> {
             "UNION " +
             "SELECT n.fixed_salary as salary,  i.full_name as name FROM Permanent_Instructors n JOIN Instructors i ON i.id = n.id " +
             "ORDER BY salary DESC " +
-            "LIMIT 2", nativeQuery = true)
+            "LIMIT 3", nativeQuery = true)
     List<InstructorOrder> orderBySalaryTop3();
 }
