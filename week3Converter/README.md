@@ -1,21 +1,5 @@
-## Course Requests
+## API Endpoints
 
-![uml-diagram](./docs/images/Course.PNG)
+![endpoints](https://github.com/nejlasahin/java-spring-bootcamp/blob/main/docs/week3/converter1.PNG?raw=true)
 
-## Permanent Instructor Requests
-
-![uml-diagram](./docs/images/PermanentInstructor.PNG)
-
-## Visiting Researcher Requests
-
-![uml-diagram](./docs/images/Visitingresearcher.PNG)
-
-## Student Requests
-
-![uml-diagram](./docs/images/Student.PNG)
-
----
-
-# Second Homework
-
-![image](./docs/images/hw02.png)
+![endpoints](https://github.com/nejlasahin/java-spring-bootcamp/blob/main/docs/week3/converter2.PNG?raw=true)

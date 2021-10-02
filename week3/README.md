@@ -1,3 +1,7 @@
-# Third Homework
+## API Endpoints
 
-![image](./docs/images/hw03.png)
+![endpoints](https://github.com/nejlasahin/java-spring-bootcamp/blob/main/docs/week3/course.PNG?raw=true)
+
+![endpoints](https://github.com/nejlasahin/java-spring-bootcamp/blob/main/docs/week3/student.PNG?raw=true)
+
+![endpoints](https://github.com/nejlasahin/java-spring-bootcamp/blob/main/docs/week3/instructor.PNG?raw=true)
