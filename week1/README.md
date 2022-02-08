@@ -1,6 +1,6 @@
 ### Java Class Diagram
 
-![uml-diagram](https://github.com/nejlasahin/java-spring-bootcamp/blob/main/docs/week1/uml-diagram.png?raw=true)
+![uml-diagram](https://github.com/nejlasahin/gittigidiyor-spring-bootcamp/blob/main/docs/week1/uml-diagram.png?raw=true)
 
 ---
 
